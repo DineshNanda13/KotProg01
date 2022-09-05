@@ -3,11 +3,14 @@ import java.util.Scanner
 
 fun main(args: Array<String>) {
 //1. Print an Integer (Entered by the User)
-    /*val reader = Scanner(System.`in`)
+
+    /*
+    val reader = Scanner(System.`in`)
     println("Enter a number: ")
 
     var num : Int = reader.nextInt()
-    println("You've entered: $num")*/
+    println("You've entered: $num")
+    */
 
 //2. Kotlin Program to Add Two Integers
     /*val num1 = 2
