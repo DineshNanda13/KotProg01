@@ -2,7 +2,8 @@
 import java.util.Scanner
 
 fun main(args: Array<String>) {
-//1. Print an Integer (Entered by the User)
+
+    //1. Print an Integer (Entered by the User)
 
     /*
     val reader = Scanner(System.`in`)
